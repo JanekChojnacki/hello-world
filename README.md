@@ -2,3 +2,4 @@
 Jan Chojnacki
 AAAAAA
 Patryczek Rajdowiec
+Konrad Kobierski
