@@ -1,2 +1,2 @@
 # hello-world
-by Janek Chojnack
+by SZmula
