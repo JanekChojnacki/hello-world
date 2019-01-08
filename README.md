@@ -1,3 +1,2 @@
-Patryczek Rajdowiec
 # hello-world
-by SZmula
+Patryczek Rajdowiec
